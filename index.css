@@ -1,0 +1,38 @@
+body {
+
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.c6d2460dd6ca5e60be8b9fb62acf0be4?rik=Gv%2fEvhiN28ms%2fg&riu=http%3a%2f%2fitsslab.com%2fwp-content%2fuploads%2f2014%2f02%2ffeb-5-snow-6.jpg&ehk=9%2b%2bSzaVjUEVWXv%2fSXguJUzVK1tciqlH2co9fR2I12oU%3d&risl=&pid=ImgRaw&r=0);
+}
+
+h2{
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+button {
+    background-color: purple;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 15px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#increment-btn{
+    background:darkred;
+    font-size: 40px;
+    a
+}
+
+#save-btn{
+    background:green;
+}
